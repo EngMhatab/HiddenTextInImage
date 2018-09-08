@@ -1,0 +1,13 @@
+Must there here 5 picture like name
+Pic0.jpg
+Pic1.jpg
+Pic2.jpg
+Pic3.jpg
+Pic4.jpg
+
+must Dimension:
+1024*768
+
+Maximum char write:
+471,855
+	        
