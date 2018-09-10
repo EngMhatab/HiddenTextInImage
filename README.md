@@ -6,4 +6,4 @@
 
 لمزيد من المعلومات    
 
-<a href="http://www.engmhatab.com/projects/hidden-text-in-image/"> اضغط هنا </a>
+<a href="http://www.engmhatab.com/hidden-text-in-image/"> اضغط هنا </a>
